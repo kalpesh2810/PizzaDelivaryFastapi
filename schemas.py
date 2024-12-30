@@ -15,8 +15,8 @@ class SignUpModel(BaseModel):
         orm_mode=True
         schema_extra={
             'example':{
-                "username":"johndoe",
-                "email":"johndoe@gmail.com",
+                "username":"kalpesh",
+                "email":"kalpeshingale39@gmail.com",
                 "password":"password",
                 "is_staff":False,
                 "is_active":True
